@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="aroundtheworld.CountryTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2021-12-23T20:48:19" hostname="stansmacmini.lan" time="6.814">
+  <properties/>
+  <testcase name="testCurrencyCodes" classname="aroundtheworld.CountryTest" time="0.526"/>
+  <testcase name="testCountryAccessors" classname="aroundtheworld.CountryTest" time="0.097"/>
+  <testcase name="testNeighbors" classname="aroundtheworld.CountryTest" time="6.191"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
