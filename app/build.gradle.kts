@@ -8,7 +8,7 @@
 
 plugins {
     // Apply the org.jetbrains.kotlin.jvm Plugin to add support for Kotlin.
-    id("org.jetbrains.kotlin.jvm") version "1.4.20"
+    id("org.jetbrains.kotlin.jvm") version "1.6.20"
 
     // Apply the application plugin to add support for building a CLI application in Java.
     application
@@ -16,7 +16,7 @@ plugins {
 
 repositories {
     // Use JCenter for resolving dependencies.
-    jcenter()
+    mavenCentral()
 }
 
 dependencies {
@@ -37,7 +37,7 @@ dependencies {
 
     // Project imports
     // You need to add the json import statement here
-    implementation("org.json:json:20171018")
+    implementation("org.json:json:20220320")
 }
 
 application {

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="aroundtheworld.CountryTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-04-14T23:12:58" hostname="stansmacmini.lan" time="6.132">
+<testsuite name="aroundtheworld.CountryTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-05-03T22:16:11" hostname="cf409-02" time="5.17">
   <properties/>
-  <testcase name="testCurrencyCodes" classname="aroundtheworld.CountryTest" time="0.503"/>
-  <testcase name="testCountryAccessors" classname="aroundtheworld.CountryTest" time="0.091"/>
-  <testcase name="testNeighbors" classname="aroundtheworld.CountryTest" time="5.537"/>
+  <testcase name="testCurrencyCodes" classname="aroundtheworld.CountryTest" time="0.562"/>
+  <testcase name="testCountryAccessors" classname="aroundtheworld.CountryTest" time="0.079"/>
+  <testcase name="testNeighbors" classname="aroundtheworld.CountryTest" time="4.528"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
